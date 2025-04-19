@@ -73,7 +73,7 @@ MLflow is used to track experiments, log parameters and metrics, and save traine
    mlflow ui
 ``` 
 
-This will launch the MLflow Tracking UI at ``(http://localhost:5000) ````
+This will launch the MLflow Tracking UI at ```(http://localhost:5000) ```
 
 ### 🔹 2. Track a Model Run in Python 
 
