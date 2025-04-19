@@ -63,14 +63,15 @@ To run the application in a Docker container:
    ```
 3. Access the application at ```http://localhost:8501```
 
-## 🧪 MLflow Guide 
+## MLflow Guide 
 
 MLflow is used to track experiments, log parameters and metrics, and save trained models. 
 
 ### 🔹 1. Start the MLflow UI 
 
 ```bash 
-   mlflow ui ``` 
+   mlflow ui
+``` 
 
 This will launch the MLflow Tracking UI at ``(http://localhost:5000) ````
 
@@ -108,7 +109,8 @@ To log to this experiment:
    import matplotlib.pyplot as plt
       plt.plot([0, 1], [0.5, 0.9])
       plt.savefig("plot.png")
-      mlflow.log_artifact("plot.png") ``` 
+      mlflow.log_artifact("plot.png")
+``` 
 
 ### MLflow Files
    Experiment logs are stored under the `mlruns/` directory - Each run contains logged metrics, parameters, models, and artifacts
