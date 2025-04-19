@@ -44,5 +44,22 @@ An interactive web application for breast cancer risk prediction using Machine L
 ## Usage
 
 1. Run the Streamlit application:
-     ```streamlit run app/streamlit_app.py```
+     ```bash
+   streamlit run app/streamlit_app.py
+     ```
 2. Open the provided local URL in your browser to interact with the application.
+
+## Docker Setup
+
+To run the application in a Docker container:
+
+1. Build the Docker image:
+   ```bash
+      docker build -t DockerFile .
+   ```
+2. Run the Docker container:
+   ```bash
+   docker run -p 8501:8501 DockerFile
+   ```
+3. Access the application at ```http://localhost:8501```
+
