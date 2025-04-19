@@ -36,3 +36,13 @@ An interactive web application for breast cancer risk prediction using Machine L
    git clone https://github.com/sivkri/interactive-cancer-risk-predictor-ml-dl.git
    cd interactive-cancer-risk-predictor-ml-dl
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. Run the Streamlit application:
+     ```streamlit run app/streamlit_app.py```
+2. Open the provided local URL in your browser to interact with the application.
