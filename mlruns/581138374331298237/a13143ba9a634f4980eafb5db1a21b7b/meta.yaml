@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/a13143ba9a634f4980eafb5db1a21b7b/artifacts
+end_time: 1745062538913
+entry_point_name: ''
+experiment_id: '581138374331298237'
+lifecycle_stage: active
+run_id: a13143ba9a634f4980eafb5db1a21b7b
+run_name: DeepLearning
+run_uuid: a13143ba9a634f4980eafb5db1a21b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745062524768
+status: 3
+tags: []
+user_id: india

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745049794260
+current_stage: Deleted_Internal
+description: ''
+last_updated_timestamp: 1745049811061
+name: jkbjk
+run_id: fa186910d7f342d084bf5ac58aeec94d
+run_link: ''
+source: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/fa186910d7f342d084bf5ac58aeec94d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/fa186910d7f342d084bf5ac58aeec94d/artifacts/model
+user_id: null
+version: 1

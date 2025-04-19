@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/0a6e57cd6ef746c2b10fd5a3f8b8ae76/artifacts
+end_time: 1745049597359
+entry_point_name: ''
+experiment_id: '581138374331298237'
+lifecycle_stage: active
+run_id: 0a6e57cd6ef746c2b10fd5a3f8b8ae76
+run_name: RandomForest
+run_uuid: 0a6e57cd6ef746c2b10fd5a3f8b8ae76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745049594155
+status: 3
+tags: []
+user_id: india

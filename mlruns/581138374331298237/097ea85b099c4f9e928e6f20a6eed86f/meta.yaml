@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/097ea85b099c4f9e928e6f20a6eed86f/artifacts
+end_time: 1745053347536
+entry_point_name: ''
+experiment_id: '581138374331298237'
+lifecycle_stage: active
+run_id: 097ea85b099c4f9e928e6f20a6eed86f
+run_name: Bagging
+run_uuid: 097ea85b099c4f9e928e6f20a6eed86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745053344079
+status: 3
+tags: []
+user_id: india

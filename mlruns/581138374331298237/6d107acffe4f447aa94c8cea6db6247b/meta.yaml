@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine learning/ML/Classification_ML_and_DL/mlruns/581138374331298237/6d107acffe4f447aa94c8cea6db6247b/artifacts
+end_time: 1745049600409
+entry_point_name: ''
+experiment_id: '581138374331298237'
+lifecycle_stage: active
+run_id: 6d107acffe4f447aa94c8cea6db6247b
+run_name: SVM
+run_uuid: 6d107acffe4f447aa94c8cea6db6247b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745049597379
+status: 3
+tags: []
+user_id: india
